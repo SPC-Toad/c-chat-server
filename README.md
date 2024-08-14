@@ -42,10 +42,14 @@ Start a client:
 ./client <port> <your_name>
 ```
 
+
+
+
 ## Note
 Clients can type messages which will be broadcast to all other connected clients.
 The chat history is saved in chat_log.txt.
 
 ## Example Run:
+https://github.com/user-attachments/assets/754a6874-e0cc-4c15-8081-522ee1aa8b8a
 
 ## Thank you for stopping by!
